@@ -39,7 +39,7 @@ Use Simulation.java to run Run the program
 The program takes the input of : Portfolio Type, Return (Mean), Risk ( Standard Deviation) and Investment period (years)
 
 10,0000 runs of Monte Carlo simulation is run for each portfolio.
-Each run calculates the forcasted amount at the end to the investment period.
+Each run calculates the forcasted amount adjusted for inflation at the end to the investment period.
 Median and 90th percentile value and 10th percentile value is printed.
 
 
